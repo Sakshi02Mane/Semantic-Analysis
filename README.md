@@ -2,7 +2,6 @@
 
 A hybrid machine learning project that classifies text reviews as **Positive**, **Negative**, or **Neutral** using three different approaches — compared side by side to evaluate performance.
 
-> Built for Girl Hackathon Silicon 2025.
 
 ---
 
